@@ -13,7 +13,7 @@
 
 ## Technology stack
 
-![code](https://github.com/Gubchik123-NURE/Gubchik123-NURE/assets/161468102/d04b99d0-2a4b-45b2-8c88-d03560d8a994)
+<img align="right" alt="GIF" src="./code.gif" />
 
 **Back-end**
 
